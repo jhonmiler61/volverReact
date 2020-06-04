@@ -1,0 +1,17 @@
+.Navbar{
+    background-color: black;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px gray;
+    padding: 0.2rem;
+}
+.Navbar span {
+    color: white;
+    font-size: 2rem;
+    margin: 1rem;
+    margin-top: 0.5rem;
+    padding-top: 1rem;
+}
+.Navbar a{
+    align-self: center;
+    text-align: center;
+}
